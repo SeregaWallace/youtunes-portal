@@ -7,3 +7,6 @@
 - Webpack
 - es6 +
 - sass
+- Radio player
+- Video player
+- Audio player
